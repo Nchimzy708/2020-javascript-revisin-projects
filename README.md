@@ -1,2 +1,2 @@
-# 2020-javascript-revisin-projects
-going through som js after while 
+# 2021-javascript-revisin-projects
+going through some js after while 
